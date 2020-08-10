@@ -10,6 +10,7 @@ body {
 p{
     color:dimgray;
     margin-top:5px;
+    font-size:16px;
 }
 h4{
     font-size:28px;
@@ -62,9 +63,27 @@ section{
     width:25%;
     padding:3%;
     float:left;
+    margin:1%;
     display:block;
 
 } 
 .center{
     text-align:center;
 }
+.work-section{
+    display:block;
+    width:100%;
+    
+}  
+
+.contact-me {
+    background-color: #ec4b75;
+    width: 400px;
+    text-align: center;
+    color: #202428;
+    margin: 0 auto;
+    padding: 60px 80px;
+    border-radius: 5px;
+    margin-top:10px;
+    cursor:pointer;
+  }
