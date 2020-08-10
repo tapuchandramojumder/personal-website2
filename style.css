@@ -2,6 +2,11 @@
     margin:0;
     padding:0;
 }
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto';
+ }
 p{
     color:dimgray;
     margin-top:5px;
@@ -42,4 +47,24 @@ section{
     color:white;
     background-color:#EC4F8F;
 
+}
+.biography-section{
+    background-image:url("images/biography-bg.png") ;
+    background-repeat:no-repeat;
+    background-size:cover;
+    display:block;
+}
+.one-third{
+    width:100%;
+    display:block;
+}
+.one-third img{
+    width:25%;
+    padding:3%;
+    float:left;
+    display:block;
+
+} 
+.center{
+    text-align:center;
 }
