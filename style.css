@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+}
+p{
+    color:dimgray;
+    margin-top:5px;
+}
+h4{
+    font-size:28px;
+    margin-top:10px;
+}
+section{
+    height:600px;
+}
+.text-color{
+    color:#EC4F8F;
+    display:block;
+    font-size:34px;
+}
+.name-section{
+   background-image:url("images/header-bg.png") ;
+   background-repeat:no-repeat;
+   background-size:cover;
+   
+}
+.half-width{
+    width:40%;
+    float:left;
+    padding:3%;
+    margin:2%;
+    display:block;
+}
+.half-width img{
+    width:50%;
+
+}
+.btn-style{
+    text-decoration:none;
+    padding:10px 20px;
+    border-radius:5px;
+    color:white;
+    background-color:#EC4F8F;
+
+}
